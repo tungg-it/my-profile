@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/tungtt.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tungtt.dev" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/@tung_it" target="blank"><img align="center" src="tiktok-logo.png" alt="TikTok" height="40" width="40" /></a>
-<a href="youtube.com/@tung_it?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tung_it" height="40" width="40" /></a>
+<a href="https://tiktok.com/@.tung_it" target="blank"><img align="center" src="tiktok-logo.png" alt="TikTok" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@tung_it?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tung_it" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
